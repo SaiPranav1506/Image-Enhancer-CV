@@ -1,3 +1,4 @@
+#This is blur detection file
 """
 Blur Detection Module
 Detects blurry images using Laplacian Variance method
